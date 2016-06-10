@@ -1,0 +1,8 @@
+.realtySearch .error input:focus {
+    border: 2px solid red;
+    collapse: red;
+}
+.realtySearch .error input {
+    border: 2px solid red;
+    collapse: red;
+}
